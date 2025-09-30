@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Especializado en Frontend (React, TypeScript, Next.js)**  
 Pergamino, Buenos Aires, Argentina  
-[LinkedIn](https://www.linkedin.com/in/xavier-manzoco-870aa2242/) | [Email](mailto:tuemail@dominio.com)  
+[LinkedIn](https://www.linkedin.com/in/xavier-manzoco/) | [Email](mailto:xavi.manzoco@gmail.com)  
 
 ---
 
@@ -70,16 +70,15 @@ Trabajo en proyectos colaborativos aplicando metodologías ágiles (Scrum), desa
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|------------|--------|
 | FitHub – Plataforma para gimnasio | Proyecto final de Henry. App web para gestionar gimnasio: reservas de clases, rutinas, pagos, certificados y dashboard de métricas | React, TypeScript, Next.js | [GitHub](https://github.com/fithubhenry/fithub-front) |
-| Hammer Store – E-commerce | Proyecto individual de Henry. Aplicación web integral con frontend y backend, interfaces interactivas y gestión de base de datos | TypeScript, JavaScript, TailwindCSS | [GitHub](https://m4-62-8nq8.vercel.app) |
+| Hammer Store – E-commerce | Proyecto individual de Henry. Aplicación web integral con frontend y backend, interfaces interactivas y gestión de base de datos | TypeScript, JavaScript, TailwindCSS | [Vercel](https://m4-62-8nq8.vercel.app) |
 
 ---
 
 ## Idiomas
-- Español: Nativo  
-- Inglés: [Nivel]  
+- Español: Nativo
 
 ---
 
 ## Contacto
-📧 Email: tuemail@dominio.com  
+📧 Email: xavi.manzoco@gmail.com
 🔗 LinkedIn: [linkedin.com/in/xavier-manzoco](https://www.linkedin.com/in/xavier-manzoco-870aa2242/)  
