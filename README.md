@@ -12,21 +12,6 @@ Trabajo en proyectos colaborativos aplicando metodologías ágiles (Scrum), desa
 
 ---
 
-## Experiencia Profesional
-
-**Productor de eventos – Freelance / Self-Employed**  
-*Abr. 2010 – Mar. 2025 | Argentina*  
-- Experiencia como DJ y productor de eventos independientes  
-- Coordinación con clientes y equipos para organizar eventos exitosos  
-- Gestión de logística, tiempos y recursos bajo presión  
-- Creatividad y resolución de problemas en entornos dinámicos  
-- Habilidades transferibles al desarrollo web: trabajo en equipo, organización y creatividad  
-
-**Cambio de profesión / Descanso profesional**  
-*Abr. 2025 – Actualidad*  
-
----
-
 ## Educación
 
 **Henry – Full Stack Web Developer Bootcamp**  
